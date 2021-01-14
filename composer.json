@@ -1,0 +1,6 @@
+{
+    "autoload":{},
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    }
+}
